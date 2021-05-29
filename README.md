@@ -5,4 +5,4 @@
      И создайте вот такую таблицу, без верхней части с логотипом конечно.
 
 #### 1. Макет для верстки на HTML
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_6/Frame%20108.png?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_7/lesson7.jpg?raw=true)
